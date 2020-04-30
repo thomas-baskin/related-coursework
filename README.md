@@ -5,7 +5,6 @@
  + Methods in Computer Science
  + Statistics for Scientists and Engineers
  + Linear Algebra
-# In Progess
  + Developing Dynamic, Database-driven, Web Applications
  + Operating Systems and Concurrency
  + Discrete Mathematics
