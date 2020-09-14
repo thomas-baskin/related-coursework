@@ -9,3 +9,11 @@
  + Operating Systems and Concurrency
  + Discrete Mathematics
  + Introduction to Unmanned Aerial Systems
+
+# Classes in Progress
+ + Programming Languages
+ + C++
+ + Introduction to Software Engineering
+ + Technical Communications for Engineers
+ + Student Applied Leadership - Tutoring 1
+ + Mass Media Law
