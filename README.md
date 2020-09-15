@@ -14,6 +14,6 @@
  + Programming Languages
  + C++
  + Introduction to Software Engineering
- + Technical Communications for Engineers
+ + Technical Communication for Engineers
  + Student Applied Leadership - Tutoring 1
  + Mass Media Law
