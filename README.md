@@ -3,11 +3,12 @@
  + Algorithms and Data Structures
  + Introduction to Event Driven Programming and GUI's
  + Methods in Computer Science
- + Statistics for Scientists and Engineers
- + Linear Algebra
  + Developing Dynamic, Database-driven, Web Applications
  + Operating Systems and Concurrency
+ + Calculus I and Calculus II
  + Discrete Mathematics
+ + Statistics for Scientists and Engineers
+ + Linear Algebra
  + Introduction to Unmanned Aerial Systems
 
 # Classes in Progress
