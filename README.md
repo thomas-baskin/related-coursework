@@ -1,4 +1,4 @@
-# Completed Classes
+# Completed Courses
  + Introduction to Computer Science - CS2
  + Algorithms and Data Structures
  + Introduction to Event Driven Programming and GUI's
@@ -11,7 +11,7 @@
  + Linear Algebra
  + Introduction to Unmanned Aerial Systems
 
-# Classes in Progress
+# Courses in Progress
  + Programming Languages
  + C++
  + Introduction to Software Engineering
