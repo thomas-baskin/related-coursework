@@ -10,11 +10,15 @@
  + Statistics for Scientists and Engineers
  + Linear Algebra
  + Introduction to Unmanned Aerial Systems
-
-# Courses in Progress
  + Programming Languages
  + C++
  + Introduction to Software Engineering
  + Technical Communication for Engineers
  + Student Applied Leadership - Tutoring 1
  + Mass Media Law
+ 
+# Courses in Progress
+ + Parallel Programming
+ + Data Science Incubator
+ + Computer Systems Architecture and Organization
+ + Advanced Algorithms
